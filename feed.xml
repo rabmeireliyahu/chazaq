@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>CHAZAQ</title>
+    <description>Torah lectures from the CHAZAQ Organization - Building a Stronger Future - Otzar HaTorah</description>
+    <link>https://rabmeireliyahu.github.io/chazaq</link>
+    <language>en</language>
+    <itunes:author>CHAZAQ Organization</itunes:author>
+    <itunes:owner>
+      <itunes:name>CHAZAQ Organization</itunes:name>
+      <itunes:email>rabmeireliyahu@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://rabmeireliyahu.github.io/chazaq/portada.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Rav Meir Eliyahu - End of Days (English)</title>
+      <description>Rav Meir Eliyahu - End of Days (English)</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/chazaq-org-shiurim/Rav_Meir_Eliyahu_-_End_of_Days_%28English%29.mp3" length="95111138" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rav_Meir_Eliyahu_-_End_of_Days_(English).mp3</guid>
+      <pubDate>Tue, 12 May 2026 12:15:14 -0000</pubDate>
+      <itunes:duration>01:06:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rabbi Yisrael Yakubov - The Clarity Protocol for Singles</title>
+      <description>Rabbi Yisrael Yakubov - The Clarity Protocol for Singles</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/chazaq-org-shiurim/Rabbi_Yisrael_Yakubov_-_The_Clarity_Protocol_for_Singles.mp3" length="63264966" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rabbi_Yisrael_Yakubov_-_The_Clarity_Protocol_for_Singles.mp3</guid>
+      <pubDate>Thu, 14 May 2026 11:28:49 -0000</pubDate>
+      <itunes:duration>01:09:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rabbi Yisrael Yakubov - Character &amp; Livelihood The Hidden Connection Between Emotion &amp; Success</title>
+      <description>Rabbi Yisrael Yakubov - Character &amp; Livelihood The Hidden Connection Between Emotion &amp; Success</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/chazaq-org-shiurim/Rabbi_Yisrael_Yakubov_-_Character_%26_Livelihood_The_Hidden_Connection_Between_Emotion_%26_Success.mp3" length="27907242" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rabbi_Yisrael_Yakubov_-_Character_&amp;_Livelihood_The_Hidden_Connection_Between_Emotion_&amp;_Success.mp3</guid>
+      <pubDate>Mon, 18 May 2026 08:21:54 -0000</pubDate>
+      <itunes:duration>01:18:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
