@@ -2,7 +2,8 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>CHAZAQ</title>
-    <description>Torah lectures from the CHAZAQ Organization - Building a Stronger Future - Otzar HaTorah</description>
+    <description>Torah lectures in English from the CHAZAQ Organization. Emunah, parsha, shalom bayis, chinuch, teshuva and inspiration from Rabbi Paysach Krohn, Charlie Harary, Rabbi Fischel Schachter and many more - Otzar HaTorah.</description>
+    <itunes:summary>Torah lectures in English from the CHAZAQ Organization. Emunah, parsha, shalom bayis, chinuch, teshuva and inspiration from Rabbi Paysach Krohn, Charlie Harary, Rabbi Fischel Schachter and many more - Otzar HaTorah.</itunes:summary>
     <link>https://rabmeireliyahu.github.io/chazaq</link>
     <language>en</language>
     <itunes:author>CHAZAQ Organization</itunes:author>
