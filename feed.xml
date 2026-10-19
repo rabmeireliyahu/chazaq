@@ -1445,5 +1445,14 @@
       <itunes:duration>01:01:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Chazaq on The Parsha ： Lech Lecha W. Rabbi David Shelby - Think Positive!</title>
+      <description>Chazaq on The Parsha ： Lech Lecha W. Rabbi David Shelby - Think Positive!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/chazaq-org-shiurim/Chazaq%20on%20The%20Parsha%20%EF%BC%9A%20Lech%20Lecha%20W.%20Rabbi%20David%20Shelby%20-%20Think%20Positive%21.mp3" length="2502348" type="audio/mpeg"/>
+      <guid isPermaLink="false">Chazaq on The Parsha ： Lech Lecha W. Rabbi David Shelby - Think Positive!.mp3</guid>
+      <pubDate>Mon, 19 Oct 2026 05:33:54 -0000</pubDate>
+      <itunes:duration>00:02:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
