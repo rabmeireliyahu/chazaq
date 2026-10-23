@@ -1454,5 +1454,14 @@
       <itunes:duration>00:02:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>When Hearts Come Together ｜ Mrs. Maya Namdar &amp; Rabbetzin Ora Nisanov ｜ CHAZAQ</title>
+      <description>When Hearts Come Together ｜ Mrs. Maya Namdar &amp; Rabbetzin Ora Nisanov ｜ CHAZAQ</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/chazaq-org-shiurim/When%20Hearts%20Come%20Together%20%EF%BD%9C%20Mrs.%20Maya%20Namdar%20%26%20Rabbetzin%20Ora%20Nisanov%20%EF%BD%9C%20CHAZAQ.mp3" length="57061583" type="audio/mpeg"/>
+      <guid isPermaLink="false">When Hearts Come Together ｜ Mrs. Maya Namdar &amp; Rabbetzin Ora Nisanov ｜ CHAZAQ.mp3</guid>
+      <pubDate>Thu, 22 Oct 2026 20:13:03 -0000</pubDate>
+      <itunes:duration>01:38:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
