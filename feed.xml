@@ -1463,5 +1463,14 @@
       <itunes:duration>01:38:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Parshat Vayeira： The Challenge of Raising Children - Rabbi Aharon Walkin</title>
+      <description>Parshat Vayeira： The Challenge of Raising Children - Rabbi Aharon Walkin</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/chazaq-org-shiurim/Parshat%20Vayeira%EF%BC%9A%20The%20Challenge%20of%20Raising%20Children%20-%20Rabbi%20Aharon%20Walkin.mp3" length="69283013" type="audio/mpeg"/>
+      <guid isPermaLink="false">Parshat Vayeira： The Challenge of Raising Children - Rabbi Aharon Walkin.mp3</guid>
+      <pubDate>Mon, 26 Oct 2026 07:35:25 -0000</pubDate>
+      <itunes:duration>01:12:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
