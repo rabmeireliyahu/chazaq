@@ -1472,5 +1472,14 @@
       <itunes:duration>01:12:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rabbi Maor Bendel - The Boomerang Effect of Our Actions</title>
+      <description>Rabbi Maor Bendel - The Boomerang Effect of Our Actions</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/chazaq-org-shiurim/Rabbi%20Maor%20Bendel%20-%20The%20Boomerang%20Effect%20of%20Our%20Actions.mp3" length="26573709" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rabbi Maor Bendel - The Boomerang Effect of Our Actions.mp3</guid>
+      <pubDate>Tue, 27 Oct 2026 21:59:09 -0000</pubDate>
+      <itunes:duration>00:44:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
