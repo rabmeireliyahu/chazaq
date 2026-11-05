@@ -1481,5 +1481,14 @@
       <itunes:duration>00:02:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rabbi Maor Bendel - The Secret to a Meaningful Life</title>
+      <description>Rabbi Maor Bendel - The Secret to a Meaningful Life</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/chazaq-org-shiurim/Rabbi%20Maor%20Bendel%20-%20The%20Secret%20to%20a%20Meaningful%20Life.mp3" length="27096727" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rabbi Maor Bendel - The Secret to a Meaningful Life.mp3</guid>
+      <pubDate>Wed, 04 Nov 2026 20:17:59 -0000</pubDate>
+      <itunes:duration>00:44:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
