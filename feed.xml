@@ -1490,5 +1490,14 @@
       <itunes:duration>00:44:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rabbi Maor Bendel - Don't Sell Yourself Short</title>
+      <description>Rabbi Maor Bendel - Don't Sell Yourself Short</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/chazaq-org-shiurim/Rabbi%20Maor%20Bendel%20-%20Don%27t%20Sell%20Yourself%20Short.mp3" length="31863165" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rabbi Maor Bendel - Don't Sell Yourself Short.mp3</guid>
+      <pubDate>Wed, 11 Nov 2026 08:14:07 -0000</pubDate>
+      <itunes:duration>00:53:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
