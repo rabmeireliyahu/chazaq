@@ -1499,5 +1499,14 @@
       <itunes:duration>00:07:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rav David Lau - Special Event in Five Towns</title>
+      <description>Rav David Lau - Special Event in Five Towns</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/chazaq-org-shiurim/Rav%20David%20Lau%20-%20Special%20Event%20in%20Five%20Towns.mp3" length="23546013" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rav David Lau - Special Event in Five Towns.mp3</guid>
+      <pubDate>Wed, 11 Nov 2026 08:16:26 -0000</pubDate>
+      <itunes:duration>00:43:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
