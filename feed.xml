@@ -1508,5 +1508,14 @@
       <itunes:duration>00:43:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Parshat Vayeitzei： Protect Your Head</title>
+      <description>Parshat Vayeitzei： Protect Your Head</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/chazaq-org-shiurim/Parshat%20Vayeitzei%EF%BC%9A%20Protect%20Your%20Head.mp3" length="3258169" type="audio/mpeg"/>
+      <guid isPermaLink="false">Parshat Vayeitzei： Protect Your Head.mp3</guid>
+      <pubDate>Mon, 16 Nov 2026 18:39:22 -0000</pubDate>
+      <itunes:duration>00:03:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
