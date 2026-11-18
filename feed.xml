@@ -1517,5 +1517,14 @@
       <itunes:duration>00:03:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>CHAZAQ's Torah Talks #227 Rabbi Asher Weiss - Chizuk For Our Times</title>
+      <description>CHAZAQ's Torah Talks #227 Rabbi Asher Weiss - Chizuk For Our Times</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/chazaq-org-shiurim/CHAZAQ%27s%20Torah%20Talks%20%23227%20Rabbi%20Asher%20Weiss%20-%20Chizuk%20For%20Our%20Times.mp3" length="17485197" type="audio/mpeg"/>
+      <guid isPermaLink="false">CHAZAQ's Torah Talks #227 Rabbi Asher Weiss - Chizuk For Our Times.mp3</guid>
+      <pubDate>Tue, 17 Nov 2026 18:43:09 -0000</pubDate>
+      <itunes:duration>00:29:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
