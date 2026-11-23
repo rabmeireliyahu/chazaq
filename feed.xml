@@ -1526,5 +1526,14 @@
       <itunes:duration>00:29:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Parshat Vayishlach： You Are So So So Good!</title>
+      <description>Parshat Vayishlach： You Are So So So Good!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/chazaq-org-shiurim/Parshat%20Vayishlach%EF%BC%9A%20You%20Are%20So%20So%20So%20Good%21.mp3" length="3778104" type="audio/mpeg"/>
+      <guid isPermaLink="false">Parshat Vayishlach： You Are So So So Good!.mp3</guid>
+      <pubDate>Mon, 23 Nov 2026 13:53:24 -0000</pubDate>
+      <itunes:duration>00:03:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
